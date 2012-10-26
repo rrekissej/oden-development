@@ -34,10 +34,10 @@
       
       <div class="navbar">
         <div class="navbar-inner">
-          <ul class="nav">
-            <li><a href="/">Home</a></li>
+          <ul class="nav row-fluid">
+            <li class="span3"><a href="/">Home</a></li>
             
-              <li class="dropdown">
+              <li class="dropdown span3">
                 <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                   kitties
                 </a>
@@ -50,7 +50,7 @@
                 </ul>
               </li>
             
-              <li class="dropdown">
+              <li class="dropdown span3">
                 <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                   derps
                 </a>
@@ -59,6 +59,17 @@
                     <li><a href="/derps/derpy2.html">derp5</a></li> 
                    
                     <li><a href="/derps/derpy.html">derp4</a></li> 
+                  
+                </ul>
+              </li>
+            
+              <li class="dropdown span3">
+                <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                  test
+                </a>
+                <ul class="dropdown-menu">
+                   
+                    <li><a href="/test/test.html">test</a></li> 
                   
                 </ul>
               </li>
@@ -79,5 +90,8 @@
     </div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="/bootstrap/js/bootstrap.js"></script>
+    <script>
+      $('.carousel').carousel();
+    </script>
   </body>
 </html>

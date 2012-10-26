@@ -52,7 +52,7 @@ body {
 }
 
 .navbar .nav > li:hover {
-  background-color: purple;
+  background-color: #400080;
 }
 
 // Dropdown menus
