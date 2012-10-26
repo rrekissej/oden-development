@@ -24,6 +24,16 @@ body {
 	width: 850px;
 }
 
+#carousel {
+	width: 600px;
+	height: 350px;
+}
+
+#index-text {
+	vertical-align: top;
+	text-align: justify;
+}
+
 #content {
 	padding: 1em;
 }
