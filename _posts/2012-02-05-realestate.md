@@ -4,4 +4,4 @@ title: REAL ESTATE
 category: SERVICES
 ---
 
-Houses and stuff
+Real Estate

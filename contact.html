@@ -3,4 +3,42 @@ layout: default
 title: Contact Us
 ---
 
-call me maybe
+<div class="row-fluid">
+	<div class="span6">
+		<form action="#" method="post" action="send_form_email.php">
+			<ul id="contactform">
+				<li>
+					<label for="name">Name*</label>
+					<span class="fieldbox"><input type="text" name="name" id="name" value=""/></span>
+				</li> 
+				<li>
+					<label for="email">E-mail*</label>
+					<span class="fieldbox"><input type="text" name="email" id="email" value=""/></span>
+				</li>
+				<li>
+					<label for="phone">Phone Number</label>
+					<span class="fieldbox"><input type="text" name="phone" id="phone" value=""/></span>
+				</li>
+				<li>
+					<label for="msg">Message</label>
+					<span class="msgbox"><textarea class="area" id="msg" name="msg" rows="8" cols="30"></textarea></span>
+				</li>
+			</ul>
+			<p>required field*</p>
+			<input type="submit" value="Send" id="sendbutton" name="sendbutton"/>
+		</form>
+	</div>
+
+	<div id="contact-text" class="span6">
+		If you need to contact us, we've provided a nice little form for you on the left.
+		<br>
+		<br>If you'd like to call or e-mail us directly instead, feel free!
+		<br>Our hours are Monday through Friday, 8:30 AM to 5:00 PM.
+		<br>
+		<br><b>E-mail</b>: info@odendevelopment.com
+		<br><b>Phone</b>: 516.965.6835
+		<br>
+	</div>
+
+</div>
+

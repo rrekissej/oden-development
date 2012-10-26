@@ -58,7 +58,10 @@ body {
 
 
 
-// *****DROPDOWN MENUS********
+// ****************************************************************
+// *********************** DROPDOWN MENUS *************************
+// ****************************************************************
+
 .sidebar-nav {
   padding: 9px 0;
 }
@@ -111,6 +114,10 @@ body {
   width: 100%;
 }
 
+.dropdown-menu a {
+  white-space: normal;
+}
+
 .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a {
   color: black;
   background-color: #E3E3E3;
@@ -136,4 +143,70 @@ body {
 .navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle {
   background-color: #400080;
   color: white;
+}
+
+
+// ****************************************************************
+// ************************* CONTACT FORM *************************
+// ****************************************************************
+
+label {
+    display: block; 
+    padding-bottom: 5px; 
+    margin-top: 20px;
+}
+ 
+#contactform {
+    width: 500px; 
+    overflow: hidden;
+}
+ 
+#contactform li {
+    list-style: none; 
+    padding-bottom: 20px;
+}
+
+
+//Textfield style 
+#contactform li .fieldbox {
+    float: left; 
+    height: 27px; 
+    padding-left: 5px;
+}
+ 
+#contactform li .fieldbox input {
+    height: 27px; 
+    padding-top: 5px;
+    width: 400px;
+}
+
+#contact-text {
+  padding-top: 30px;
+}
+
+// *************Change the width of the contact no. field *************
+#contactform li .fieldbox #contact {
+    width: 200px;
+}
+
+
+// *************Textarea Style *************
+#contactform li .msgbox {
+    float: left; 
+    height: 110px; 
+    padding-left: 5px;
+}
+ 
+#contactform li .msgbox textarea {
+    height: 110px;
+    padding-top: 5px;
+    width: 400px;     
+}
+// *************Button Style *************
+#sendbutton {
+    background-color: #400080; color: white; 
+    cursor: pointer;
+    padding: 5px 10px; 
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px
 }
