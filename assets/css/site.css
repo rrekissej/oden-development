@@ -47,6 +47,14 @@ body {
 	padding-bottom: 1em;
 }
 
+.navbar .nav > li {
+  text-align: center;
+}
+
+.navbar .nav > li:hover {
+  background-color: purple;
+}
+
 // Dropdown menus
 .sidebar-nav {
     padding: 9px 0;
@@ -88,4 +96,20 @@ body {
     left: 10px;
     top: 11px;
     left: -6px;
+}
+
+.dropdown-menu {
+  -webkit-border-top-left-radius: 0;
+  border-top-left-radius: 0;
+  -webkit-border-top-right-radius: 0;
+  border-top-right-radius: 0;
+  width: 100%;
+}
+
+.navbar .nav > li > .dropdown-menu::before {
+  display: none;
+}
+
+.navbar .nav > li > .dropdown-menu::after {
+  display: none;
 }
