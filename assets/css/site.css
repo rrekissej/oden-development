@@ -53,6 +53,7 @@ body {
 
 .navbar .nav > li:hover {
   background-color: #400080;
+  color: white;
 }
 
 
@@ -89,6 +90,7 @@ body {
   border-top: 7px solid transparent;
   left: -7px;
   top: 10px;
+  color: white;
 }
 
 .navbar .sub-menu:after {
@@ -115,10 +117,23 @@ body {
   background-image: none;
 }
 
+.navbar .nav > li > a {
+  color: black;
+}
+
 .navbar .nav > li > .dropdown-menu::before {
   display: none;
 }
 
 .navbar .nav > li > .dropdown-menu::after {
   display: none;
+}
+
+.navbar .nav > li > a:focus, .navbar .nav > li > a:hover {
+  color: white;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle {
+  background-color: #400080;
+  color: white;
 }
