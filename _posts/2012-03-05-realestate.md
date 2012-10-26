@@ -1,7 +1,7 @@
 ---
 layout: default
-title: INVESTMENTS
+title: REAL ESTATE
 category: SERVICES
 ---
 
-give me your **money**
+Houses and stuff
