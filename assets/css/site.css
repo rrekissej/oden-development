@@ -55,7 +55,9 @@ body {
   background-color: #400080;
 }
 
-// Dropdown menus
+
+
+// *****DROPDOWN MENUS********
 .sidebar-nav {
     padding: 9px 0;
 }
@@ -88,6 +90,7 @@ body {
     left: -7px;
     top: 10px;
 }
+
 .navbar .sub-menu:after {
     border-top: 6px solid transparent;
     border-left: none;
