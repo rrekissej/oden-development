@@ -28,6 +28,12 @@ body {
 	height: 350px;
 }
 
+.bio-text {
+  vertical-align: top;
+  text-align: justify;
+  padding-right: 40px;
+}
+
 #index-text {
 	vertical-align: top;
 	text-align: justify;
