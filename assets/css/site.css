@@ -28,7 +28,7 @@ body {
 	height: 350px;
 }
 
-.bio-text {
+#bio-text {
   vertical-align: top;
   text-align: justify;
   padding-right: 40px;
