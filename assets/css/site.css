@@ -34,6 +34,13 @@ body {
   padding-right: 40px;
 }
 
+#bio-table {
+  position: relative;
+  bottom: 0;
+  padding-left: 4em;
+  padding-right: 4em;
+}
+
 #index-text {
 	vertical-align: top;
 	text-align: justify;
