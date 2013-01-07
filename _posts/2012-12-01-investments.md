@@ -4,4 +4,8 @@ title: INVESTMENTS
 category: SERVICES
 ---
 
-Our company supports local businesses and would love to see them thrive. If you have a great business idea and need some help getting it up and running, contact us today and we'll help you start your future!
+As a direct investment company, we are attracted to and seek entrepreneurs who exhibit ambitious passion and vivid vision for the future of their products. Our team is driven by the motivation and commitment of our clients and we work at lengths to help small businesses succeed by creating significant value for both our clients and their investors. Below are some of our more recent experiences:
+* Universities & Educational Establishments
+* Media & Communications
+* Food & Beverage
+* Non-Profit & Philanthropic Organizations
