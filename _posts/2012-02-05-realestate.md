@@ -12,10 +12,10 @@ category: SERVICES
 						<img src="/assets/images/carousel3.png">
 					</div>
 					<div class="item">
-						<img src="/assets/images/re_carousel1.jpg" height="350">
+						<img src="/assets/images/re_carousel1.jpg">
 					</div>
 					<div class="item">
-						<img src="/assets/images/re_carousel3.jpg" height="350">
+						<img src="/assets/images/re_carousel2.jpg">
 					</div>
 				</div>
 				<!-- Carousel nav -->
