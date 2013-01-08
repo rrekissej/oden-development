@@ -2,6 +2,16 @@ body,html {
 	background-image: url(/assets/images/bg.png);
 }
 
+a {
+  color: #8462A6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8462A6;
+  text-decoration: none;
+}
+
 body {
 	position: relative;
 	padding-bottom: 4em;
@@ -44,6 +54,11 @@ body {
 #index-text {
 	vertical-align: top;
 	text-align: justify;
+}
+
+#page-text {
+  padding-top: 40px;
+  text-align: justify;
 }
 
 #content {
@@ -156,70 +171,4 @@ body {
 .navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle {
   background-color: #400080;
   color: white;
-}
-
-
-// ****************************************************************
-// ************************* CONTACT FORM *************************
-// ****************************************************************
-
-label {
-    display: block; 
-    padding-bottom: 5px; 
-    margin-top: 20px;
-}
- 
-#contactform {
-    width: 500px; 
-    overflow: hidden;
-}
- 
-#contactform li {
-    list-style: none; 
-    padding-bottom: 20px;
-}
-
-
-//Textfield style 
-#contactform li .fieldbox {
-    float: left; 
-    height: 27px; 
-    padding-left: 5px;
-}
- 
-#contactform li .fieldbox input {
-    height: 27px; 
-    padding-top: 5px;
-    width: 400px;
-}
-
-#contact-text {
-  padding-top: 30px;
-}
-
-// *************Change the width of the contact no. field *************
-#contactform li .fieldbox #contact {
-    width: 200px;
-}
-
-
-// *************Textarea Style *************
-#contactform li .msgbox {
-    float: left; 
-    height: 110px; 
-    padding-left: 5px;
-}
- 
-#contactform li .msgbox textarea {
-    height: 110px;
-    padding-top: 5px;
-    width: 400px;     
-}
-// *************Button Style *************
-#sendbutton {
-    background-color: #400080; color: white; 
-    cursor: pointer;
-    padding: 5px 10px; 
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px
 }
