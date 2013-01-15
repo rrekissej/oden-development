@@ -10,13 +10,12 @@ category: SERVICES
 	</div>
 	<div class="span6">
 		<div id="page-text">
-			As a direct investment company, we are attracted to and seek entrepreneurs who exhibit ambitious passion and vivid vision for the future of their products. Our team is driven by the motivation and commitment of our clients and we work at lengths to help small businesses succeed by creating significant value for both our clients and their investors. Below are some of our more recent experiences:
+			As a strategic advisory and direct investment company, we  seek companies who exhibit exceptional competency,  passion and  vision within their respective industries. Our team is driven by the motivation and commitment of our clients and we work at lengths to help small businesses succeed by creating significant value for both our clients and their investors. Our industry and investment experience includes:
 			<br><br>
 			<ul>
-				<li>Universities &amp; Educational Institutions</li>
 				<li>Media &amp; Communications</li>
 				<li>Food &amp; Beverage</li>
-				<li>Non-Profit &amp; Philanthropic Organizations</li>
+				<li>Real Estate</li>
 			</ul>
 		</div>
 	</div>

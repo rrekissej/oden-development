@@ -41,6 +41,9 @@
 								{% for post in category[1] %} 
 								<li><a href="{{ post.url }}">{{ post.title }}</a></li> 
 								{% endfor %}
+								{% if category[0] == 'SERVICES' %}
+								<li><a href="http://www.yukidukeproductions.com/">MEDIA</a></li>
+								{% endif %}
 							</ul>
 						</li>
 						{% endfor %}

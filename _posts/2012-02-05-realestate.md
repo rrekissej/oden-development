@@ -25,7 +25,7 @@ category: SERVICES
 	</div>
 	<div class="span6">
 		<div id="page-text">
-			As a development company, we want to see local businesses and areas thrive and grow. We offer strategic advising on improving underserved properties and neighborhoods to help stimulate local economic growth. Our team has experience in the following areas:
+			As a development company, we are focused on  residential, multi-family, work force housing, and University planning.    While we manage our own portfoliio of assets, we also provide consultant services around improving underserved properties and neighborhoods as a stimulus to  local economic growth. Our work is primarily concentrated in the following areas:
 			<br><br>
 			<ul>
 				<li>New York, NY</li>
